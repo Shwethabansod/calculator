@@ -15,3 +15,6 @@ npm start
 ```
 
 The Application Runs on **localhost:3000**
+
+This is deploying link
+https://spontaneous-kashata-3d637a.netlify.app/
